@@ -192,7 +192,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id`, `nama`, `alamat`, `email`, `image`, `password`, `role_id`, `is_active`, `tanggal_input`) VALUES
 (3, 'admin123', '', 'admin@gmail.com', '', '$2y$10$Xj9aeC0d5p1.17FCJc4JmuoE2v9UUbJnizvMkUGQx6K7hWxCv9I7y', 2, 1, 1650167444),
-(4, 'manarulhidayat', 'Jakarta timur', 'manarul@gmail.com', 'AGEN.JPG', '$2y$10$8.kfABf/ek0UOg07ABmvae1XtuVpeM3fISPa/s9Az9T3RD2UXuSVm', 2, 1, 1650169845);
+(4, 'rezan', 'Jakarta timur', 'rezan@gmail.com', '', '$2y$10$8.kfABf/ek0UOg07ABmvae1XtuVpeM3fISPa/s9Az9T3RD2UXuSVm', 2, 1, 1650169845);
 
 --
 -- Indexes for dumped tables
